@@ -1,7 +1,7 @@
 build:
   version: 1.0.0
 vendors:
-  message: "Welcome to EazyBank vendors related QA test APIs"
+  message: "Welcome to EazyBank vendors related QA APIs"
   contactDetails:
     name: "Jhon Doe - Developer"
     email: "john@eazybank.com"
